@@ -1,0 +1,29 @@
+*{
+	background-color: white;
+	color: black;
+}
+
+body{
+	/*background-color: lightblue;*/
+	font-family: sans-serif;
+}
+
+h1{
+	color: white;
+	text-align: left;
+}
+
+p{
+	color: black;
+	font-family: verdana;
+	font-size: 20px;
+}
+
+header{
+	background-color: red;
+}
+
+header{
+	background-color: crimson;
+	text-align: center;
+}
